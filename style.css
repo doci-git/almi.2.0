@@ -139,7 +139,7 @@ html {
     background: linear-gradient(
       rgba(8, 8, 8, 0.45), 
       rgba(0, 0, 0, 0.573)
-    ),url(firenze.jpg) no-repeat center;
+    ),url(./foto/firenze.jpg) no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
